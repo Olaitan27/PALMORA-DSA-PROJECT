@@ -10,10 +10,11 @@ The primary Source of Data used here is DSA Capstone Dataset.xlsx
 
 ### Tools Used
 - Microsoft Excel
- 1. For Data Cleaning
- 2. For Data Visualization
+ . For Data Cleaning
+
   
 ### Data Cleaning and Praparation
  During cleaning,Excel was used to filter the Data to find out the Employees that refused to disclose their gender and a generic gender status of 'Not Disclosed' was assigned to them after which the Data was loaded into the Power BI for further cleaning wehere employees without salary were removed and departments which indicated 'Null' were also removed
 
-
+###  Data Analysis
+ The data was explored and the following insigts were generated:
