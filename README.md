@@ -1,4 +1,4 @@
-# DSA-PROJECT 1
+# DSA-PROJECT 3
 
 ### Project Tittle: Palmora Group HR Analysis
 
@@ -35,5 +35,6 @@ This shows the gender distribution by Region, the Overall gender Distribution an
 ![Palmora salary distribution by Salary Band, Employee below , Average Salary by Gender](https://github.com/user-attachments/assets/0582bd9c-c6db-4a73-8eab-495df6bc36fa)
   This shows the salary distribuion of the employees by the Salary band and Region and the number of employees  that earn below minimum Salary
   
- ### Palmora Rating Distribution by Gender 
+ ### Palmora Rating Distribution by Gender and Total Bonus Payout by Region
 ![Palmora Rating Distribution by Gender](https://github.com/user-attachments/assets/0565d19e-8e49-4aa4-a158-40e347bd00e0)
+This shows the  employee rating distribution by gende rand total bonus pay out by Region.A good number of them were rated Average, A few female employees had the highest rating of good and very good while few male employees had te highest rating of poor and very poor. for the total bonus pay out,Kaduna had the highest bonus pay out while Lagos had the lowest bonus pay out
